@@ -14,3 +14,5 @@ Push example :
 - `git commit -m "Ceci est un message qui explique mes changements."` (laisser un caillou derrière soi)
 - `git pull` (Recevoir les derniers changements depuis qu'on a touché notre code)
 - `git push origin master` (Envoyer les changements au serveur)
+
+Est ce qu'on peut Žcrire des trucs lˆ pour voir?
